@@ -1,4 +1,4 @@
-# Assignment 1b: Rectangular Loop Tiling and Arithmetic Intensity in MLIR
+# Rectangular Loop Tiling and Arithmetic Intensity in MLIR
 
 ## Question 1
 **Write an algorithm to compute Arithmetic Intensity of a perfectly nested affine loop in MLIR. Explain some of the limitations of your algorithm (if any) with simple examples.**
